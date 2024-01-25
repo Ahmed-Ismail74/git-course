@@ -35,7 +35,7 @@
 - [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024)
 - [SQL for Data Analysis بالعربي Big Data](https://www.youtube.com/watch?v=kb-_GbpH3sQ&list=PLrooD4hY1QqADSWBJISGAq_qEPIed550b&index=2&t=2134s&pp=iAQB)
 - [CMU Intro to Database Systems (15-445/645 - Fall 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
-
+- [Distributed Data Management](https://www.tele-task.de/series/1224/)
 </details>
 
 <details>
