@@ -58,6 +58,5 @@
 <summary>Math</summary>
 
 - [anaHr Calculas](https://www.youtube.com/@anaHr/playlists)
-- 
 </details>
 
